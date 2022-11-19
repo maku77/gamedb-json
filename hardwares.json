@@ -1,6 +1,8 @@
 [
   {
-    "name": "スーパーファミコン (SFC/SNES)",
+    "id": "sfc",
+    "name": "スーパーファミコン",
+    "acronyms": ["SFC", "SNES"],
     "year": "1990",
     "date": "1990-11-21",
     "price": 25000,
@@ -17,69 +19,89 @@
     "misc": [
       "型名: SHVC-001",
       "のちに 9,800 円まで値下げ、スーパーファミコンジュニアは 7,800 円"
-    ]
+    ],
+    "gamesUrl": "/list/sfc"
   },
   {
-    "name": "メガドライブ (MD)",
+    "id": "md",
+    "name": "メガドライブ",
+    "acronyms": ["MD"],
     "year": "1988",
     "date": "1988-10-29",
     "price": 21800,
     "categories": null,
     "spec": [
-      "CPU: 68000 (8MHz) ＆ Z80A (4MHz)",
+      "CPU: 68000 (8MHz) / Z80A (4MHz)",
       "RAM: 72 Kbytes",
       "VRAM: 64 Kbytes",
       "サウンド: FM 音源、PSG 音源、PCM 音源",
       "VDP: セガ カスタム LSI",
       "カラー: 512 色"
     ],
-    "misc": [
-      "型名: HAA-2500",
-      "メガドライブ 2 は 12,800 円"
-    ]
+    "misc": ["型名: HAA-2500", "メガドライブ 2 は 12,800 円"],
+    "gamesUrl": "/list/md"
   },
   {
+    "id": "gb",
     "name": "ゲームボーイ",
+    "acronyms": ["GB"],
     "year": "1989",
     "price": 12500,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-pocket",
     "name": "ゲームボーイポケット",
+    "acronyms": ["GB-P"],
     "year": "1996",
     "price": 6800,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-light",
     "name": "ゲームボーイライト",
+    "acronyms": ["GB-Light"],
     "year": "1998",
     "price": 6800,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-color",
     "name": "ゲームボーイカラー",
+    "acronyms": ["GB-Color"],
     "year": "1998",
     "price": 6800,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-advance",
     "name": "ゲームボーイアドバンス",
+    "acronyms": ["GBA"],
     "year": "2001",
     "price": 8800,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-advance-sp",
     "name": "ゲームボーイアドバンス SP",
+    "acronyms": ["GBASP"],
     "year": "2003",
     "price": 9800,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   },
   {
+    "id": "gb-micro",
     "name": "ゲームボーイミクロ",
+    "acronyms": ["GB-MICRO"],
     "year": "2005",
     "price": 12000,
-    "categories": ["GB"]
+    "categories": ["GB"],
+    "gamesUrl": null
   }
 ]
-
-
