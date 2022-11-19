@@ -1,0 +1,85 @@
+[
+  {
+    "name": "スーパーファミコン (SFC/SNES)",
+    "year": "1990",
+    "date": "1990-11-21",
+    "price": 25000,
+    "categories": null,
+    "spec": [
+      "S-CPU（メイン CPU）: 16ビット、C-MOS カスタム x1",
+      "S-PPU（ビデオコントローラー）: C-MOS カスタム x2",
+      "S-WRAM（CPU ワーキング RAM）: 128K x 8ビット、カスタム D-RAM x1",
+      "S-VRAM（PPU ビデオ RAM）: 32K x 8ビット、S-RAM x2",
+      "S-SMP（サウンド CPU）: 8ビット、C-MOS カスタム x1",
+      "S-DSP（サウンド DSP）: C-MOS カスタム x1",
+      "RAM（サウンド RAM）: 32K x 8ビット、疑似 S-RAM x2"
+    ],
+    "misc": [
+      "型名: SHVC-001",
+      "のちに 9,800 円まで値下げ、スーパーファミコンジュニアは 7,800 円"
+    ]
+  },
+  {
+    "name": "メガドライブ (MD)",
+    "year": "1988",
+    "date": "1988-10-29",
+    "price": 21800,
+    "categories": null,
+    "spec": [
+      "CPU: 68000 (8MHz) ＆ Z80A (4MHz)",
+      "RAM: 72 Kbytes",
+      "VRAM: 64 Kbytes",
+      "サウンド: FM 音源、PSG 音源、PCM 音源",
+      "VDP: セガ カスタム LSI",
+      "カラー: 512 色"
+    ],
+    "misc": [
+      "型名: HAA-2500",
+      "メガドライブ 2 は 12,800 円"
+    ]
+  },
+  {
+    "name": "ゲームボーイ",
+    "year": "1989",
+    "price": 12500,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイポケット",
+    "year": "1996",
+    "price": 6800,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイライト",
+    "year": "1998",
+    "price": 6800,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイカラー",
+    "year": "1998",
+    "price": 6800,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイアドバンス",
+    "year": "2001",
+    "price": 8800,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイアドバンス SP",
+    "year": "2003",
+    "price": 9800,
+    "categories": ["GB"]
+  },
+  {
+    "name": "ゲームボーイミクロ",
+    "year": "2005",
+    "price": 12000,
+    "categories": ["GB"]
+  }
+]
+
+
